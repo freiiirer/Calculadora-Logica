@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1593729195 source:c:\users\leonardo\onedrive - fatec centro paula souza\1ºsemestre\pi\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+	<conio.h>
+
